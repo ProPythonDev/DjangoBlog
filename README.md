@@ -9,7 +9,7 @@
 
 - Windows
 
-    http://peak.telecommunity.com/dist/ez_setup.py 和 https://raw.github.com/pypa/pip/master/contrib/get-pip.py
+    http://peak.telecommunity.com/dist/ez_setup.py  https://raw.github.com/pypa/pip/master/contrib/get-pip.py
 
 
 ```python
